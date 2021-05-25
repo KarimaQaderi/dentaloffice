@@ -1,0 +1,28 @@
+.banner{
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    padding-top: 60px;
+    
+}
+
+
+
+  .bannerh1{
+    font-weight: 900;
+    color: skyblue;
+    
+    text-transform: uppercase;
+    font-size: 60px;
+    
+    text-shadow: 4px 4px 4px steelblue;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+  }
+  
+  
